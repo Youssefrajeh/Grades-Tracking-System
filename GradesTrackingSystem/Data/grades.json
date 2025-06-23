@@ -1,0 +1,53 @@
+[
+  {
+    "Code": "INFO-2112",
+    "Evaluations": [
+      {
+        "Description": "Project 1",
+        "Weight": 15.0,
+        "OutOf": 50,
+        "EarnedMarks": 46.5
+      },
+      {
+        "Description": "quiz 2",
+        "Weight": 15.0,
+        "OutOf": 10,
+        "EarnedMarks": 8.0
+      },
+      {
+        "Description": "assignment 1",
+        "Weight": 40.0,
+        "OutOf": 50,
+        "EarnedMarks": 30.0
+      }
+    ]
+  },
+  {
+    "Code": "INFO-2121",
+    "Evaluations": [
+      {
+        "Description": "Assignment01",
+        "Weight": 10.0,
+        "OutOf": 20,
+        "EarnedMarks": 18.0
+      }
+    ]
+  },
+  {
+    "Code": "INFO-3155",
+    "Evaluations": [
+      {
+        "Description": "project1",
+        "Weight": 20.0,
+        "OutOf": 50,
+        "EarnedMarks": 45.0
+      },
+      {
+        "Description": "Quiz1",
+        "Weight": 10.0,
+        "OutOf": 30,
+        "EarnedMarks": 29.0
+      }
+    ]
+  }
+]
